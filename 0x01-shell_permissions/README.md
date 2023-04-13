@@ -22,4 +22,6 @@ The '10-mirror permissions' file sets the mode of hello file tomirror that of ol
 
 The '11-directories permissions' file adds execute permission to the owner, owner group and other users of all subdirectories in the current working folder.
 
-The '12-directory permissions' file adds a script that creates a new directory my dir and sets it permission to 751. 
+The '12-directory permissions' file creates a new directory my dir and sets it permission to 751.
+
+The '13-change group' file changes the group owner of the file hello to school.
