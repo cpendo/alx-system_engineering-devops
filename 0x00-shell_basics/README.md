@@ -17,3 +17,5 @@ The '7-movethatfile' file contains a shell script that moves the file betty from
 The '8-firstdelete' file contains a shell script that deletes a file named "betty" from the /tmp/my first directory directory.
 
 The '9-firstdirdeletion' file contains a shell script that deletes the directory my first directory that is in the /tmp directory.
+
+The '10-back' file contains a shell script changes the working directory to the previous one.
