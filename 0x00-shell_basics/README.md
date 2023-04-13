@@ -13,3 +13,5 @@ The '5-listfilesdigitonly' file contains a shell script that displays current di
 The '6-firstdirectory' file contains a shell script creates a directory named my first directory in the /tmp/ directory.
 
 The '7-movethatfile' file contains a shell script that moves the file betty from /tmp/ to /tmp/my first directory.
+
+The '8-firstdelete' file contains a shell script that deletes a file named "betty" from the /tmp/my first directory directory.
