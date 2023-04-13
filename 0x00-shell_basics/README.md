@@ -20,4 +20,6 @@ The '9-firstdirdeletion' file contains a shell script that deletes the directory
 
 The '10-back' file contains a shell that script changes the working directory to the previous one.
 
-The '11-lists' file contains a shell script that lists all file, including hidden files of the current, parent and /boot directories in long format. 
+The '11-lists' file contains a shell script that lists all file, including hidden files of the current, parent and /boot directories in long format.
+
+The '12-file type' file contains a shell script that prints the type of the file named iamafile located in /tmp. 
