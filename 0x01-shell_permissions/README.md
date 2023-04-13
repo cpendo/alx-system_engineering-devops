@@ -19,3 +19,5 @@ The '8-James Bond' file gives no permissions to the ownwer and owner group and a
 The '9-John Doe' file sets the hello file mode to give all permissions to owner, read and execute permissions for the group owner and write and execute permissions for other users.
 
 The '10-mirror permissions' file sets the mode of hello file tomirror that of olleh file in the same directory.
+
+The '11-directories permissions' file adds execute permission to the owner, owner group and other users of all subdirectories in the current working folder. 
