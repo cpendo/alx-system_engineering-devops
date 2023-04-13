@@ -13,3 +13,5 @@ The '5-execute' file adds execute permission to the owner of the file hello.
 The '6-multiple permissions' file adds execute permission to the owner and the group owner and read permission to other users for the hello file.
 
 The '7-everybody' file adds execute permissions for hello file to the owner, owner group and other users.
+
+The '8-James Bond' file gives no permissions to the ownwer and owner group and all permissions to the other users.
