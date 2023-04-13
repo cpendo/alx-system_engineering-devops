@@ -11,3 +11,5 @@ The '4-listmorefiles' file contains a shell script that displays current directo
 The '5-listfilesdigitonly' file contains a shell script that displays current directory contents, including hidden files in long format with with user and group IDs displayed numerically.
 
 The '6-firstdirectory' file contains a shell script creates a directory named my first directory in the /tmp/ directory.
+
+The '7-movethatfile' file contains a shell script that moves the file betty from /tmp/ to /tmp/my first directory.
