@@ -18,4 +18,6 @@ The '8-firstdelete' file contains a shell script that deletes a file named "bett
 
 The '9-firstdirdeletion' file contains a shell script that deletes the directory my first directory that is in the /tmp directory.
 
-The '10-back' file contains a shell script changes the working directory to the previous one.
+The '10-back' file contains a shell that script changes the working directory to the previous one.
+
+The '11-lists' file contains a shell script that lists all file, including hidden files of the current, parent and /boot directories in long format. 
