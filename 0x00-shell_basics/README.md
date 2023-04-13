@@ -25,3 +25,5 @@ The '11-lists' file contains a shell script that lists all file, including hidde
 The '12-file type' file contains a shell script that prints the type of the file named iamafile located in /tmp.
 
 The '13-symbolic link' file contains a shell script that symbolic link named __ls__ to /bin/ls.
+
+The '14-copy html' file contains a shell script that will copy all html files in the current directory that do not overwrite or are newer than those in the parent directory.
