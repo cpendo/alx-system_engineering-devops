@@ -7,3 +7,5 @@ The '2-groups' file prints all groups the current user is a part of.
 The '3-new owner' file makes user betty the owner of file hello.
 
 The '4-empty' file that creates an empty file named hello.
+
+The '5-execute' file adds execute permission to the owner of the file hello.
