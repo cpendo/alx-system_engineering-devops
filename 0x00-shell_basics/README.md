@@ -4,4 +4,6 @@ The '1-listit' file contains a shell script to display the contents list of your
 
 The '2-bring me home' file contains a shell script that returns you to home user home directory.
 
-The '3-listfiles' file contains a shell script that display current directory contents in a long format.
+The '3-listfiles' file contains a shell script that displays current directory contents in a long format.
+
+The '4-listmorefiles' file contains a shell script that displays current directory contents, including hidden files in long format.
