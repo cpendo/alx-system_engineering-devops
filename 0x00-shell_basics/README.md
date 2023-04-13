@@ -7,3 +7,5 @@ The '2-bring me home' file contains a shell script that returns you to home user
 The '3-listfiles' file contains a shell script that displays current directory contents in a long format.
 
 The '4-listmorefiles' file contains a shell script that displays current directory contents, including hidden files in long format.
+
+The '5-listfilesdigitonly' file contains a shell script that displays current directory contents, including hidden files in long format with with user and group IDs displayed numerically.
