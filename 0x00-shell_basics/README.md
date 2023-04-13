@@ -9,3 +9,5 @@ The '3-listfiles' file contains a shell script that displays current directory c
 The '4-listmorefiles' file contains a shell script that displays current directory contents, including hidden files in long format.
 
 The '5-listfilesdigitonly' file contains a shell script that displays current directory contents, including hidden files in long format with with user and group IDs displayed numerically.
+
+The '6-firstdirectory' file contains a shell script creates a directory named my first directory in the /tmp/ directory.
