@@ -32,6 +32,8 @@ The '100-lets move' file contains a shell script that moves all files beginning 
 
 The '101-clean emacs' file contains a shell script that deletes all files in the current working directory that end with the character ~. 
 
-The '102-tree' file contains a shell script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+The '102-tree' file contains a shell script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
 
 The '103-commas' file contains a shell script lists all files and directories separated by comma and forward slash respectively and shows them in an orderd way.
+
+The 'school.mgc' file contains a shell script that identifies all files that contain the string SCHOOL at offset 0 as a School data file. 
