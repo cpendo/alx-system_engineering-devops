@@ -27,3 +27,5 @@ The '12-file type' file contains a shell script that prints the type of the file
 The '13-symbolic link' file contains a shell script that symbolic link named __ls__ to /bin/ls.
 
 The '14-copy html' file contains a shell script that will copy all html files in the current directory that do not overwrite or are newer than those in the parent directory.
+
+The '100-lets move ' file contains a shell script that that moves all files beginning with an uppercase letter to the directory /tmp/u.
