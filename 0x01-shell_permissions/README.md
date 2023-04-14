@@ -25,3 +25,5 @@ The '11-directories permissions' file adds execute permission to the owner, owne
 The '12-directory permissions' file creates a new directory my dir and sets it permission to 751.
 
 The '13-change group' file changes the group owner of the file hello to school.
+
+The '100-change owner and group' file changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
