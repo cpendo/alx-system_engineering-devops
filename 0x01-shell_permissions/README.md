@@ -27,3 +27,5 @@ The '12-directory permissions' file creates a new directory my dir and sets it p
 The '13-change group' file changes the group owner of the file hello to school.
 
 The '100-change owner and group' file changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+
+The '101-symbolic l ink permissions' file changes  the owner and the group owner of _hello to vincent and staff respectively.
