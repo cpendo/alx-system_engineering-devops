@@ -13,3 +13,5 @@ File "5-firstlines" has a script that displays the first 10 lines of /etc/passwd
 File "6-third_line" has a script that displays the third line of the file "iacta" in the current directory.
 
 File "7-file" has a script that creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+
+File "8-cwd_state" has a script that writes into the file ls_cwd_content the result of the command ls -la and overwrites any content in file.
