@@ -11,3 +11,5 @@ File "4-lastlines" has a script that displays the last 10 lines of /etc/passwd.
 File "5-firstlines" has a script that displays the first 10 lines of /etc/passwd.
 
 File "6-third_line" has a script that displays the third line of the file "iacta" in the current directory.
+
+File "7-file" has a script that creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
