@@ -31,3 +31,5 @@ File "14-findthatword" has a script that displays lines containing the pattern �
 File "15-countthatword" has a script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd.
 
 File "16-whatsnext" has a script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
+File "17-hidethisword" has a script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
