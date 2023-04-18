@@ -7,3 +7,5 @@ File '2-path' has a script add /action to the PATH as the last directory the she
 File '3-paths' has a script that counts the number of directories in the PATH.
 
 File '4-global_variables' has a script that lists environment variables.
+
+File '5-local_variables' has a script that lists all local variables and environment variables, and functions.
