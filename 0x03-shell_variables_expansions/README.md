@@ -31,3 +31,5 @@ File '100-decimal_to_hexadecimal' has a script that converts a number from base 
 File '101-rot13' has a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 
 File '102-odd' has a script that prints every other line from the input, starting with the first line.
+
+File '103-water_and_stir' has a script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
