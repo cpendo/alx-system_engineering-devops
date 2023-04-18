@@ -21,3 +21,5 @@ File '9-divide_and_rule' has a script that prints the result of POWER divided by
 File '10-love_exponent_breath' has a script that displays the result of BREATH to the power LOVE, followed by a new line.
 
 File '11-binary_to_decimal' has a script that converts the number value in BINARY from base 2 to base 10.
+
+File '12-combinations' has a script that prints all possible combinations of two letters, except oo.
