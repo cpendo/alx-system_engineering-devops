@@ -27,3 +27,5 @@ File '12-combinations' has a script that prints all possible combinations of two
 File '13-print_float' has a script that prints the number value of NUM with two decimal places, followed by a new line.
 
 File '100-decimal_to_hexadecimal' has a script that converts a number from base 10 to base 16.
+
+File '101-rot13' has a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
