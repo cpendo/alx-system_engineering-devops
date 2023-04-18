@@ -25,3 +25,5 @@ File '11-binary_to_decimal' has a script that converts the number value in BINAR
 File '12-combinations' has a script that prints all possible combinations of two letters, except oo.
 
 File '13-print_float' has a script that prints the number value of NUM with two decimal places, followed by a new line.
+
+File '100-decimal_to_hexadecimal' has a script that converts a number from base 10 to base 16.
