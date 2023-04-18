@@ -29,3 +29,5 @@ File '13-print_float' has a script that prints the number value of NUM with two 
 File '100-decimal_to_hexadecimal' has a script that converts a number from base 10 to base 16.
 
 File '101-rot13' has a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+File '102-odd' has a script that prints every other line from the input, starting with the first line.
